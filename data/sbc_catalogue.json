@@ -1,0 +1,27 @@
+[
+  {
+    "model_name": "Raspberry Pi 4 Model B",
+    "specs": {
+      "cpu": "Broadcom BCM2711, Cortex-A72 @ 1.5-1.8GHz",
+      "gpu": "VideoCore VI",
+      "ram": "2GB/4GB/8GB",
+      "storage": "microSD",
+      "other": "Dual-monitor via micro HDMI, USB 3.0"
+    },
+    "price_usd": 55.0,
+    "release_year": 2019
+  },
+  {
+    "model_name": "Raspberry Pi 5",
+    "specs": {
+      "cpu": "Broadcom BCM2711, Cortex-A76",
+      "gpu": "VideoCore VI",
+      "ram": "4GB/8GB",
+      "storage": "microSD",
+      "other": "PCIe via USB-C adapter"
+    },
+    "price_usd": 60.0,
+    "release_year": 2023
+  }
+]
+
